@@ -56,10 +56,10 @@ There is also an **“Apply all slicers”** button to update all visuals based 
 
 ## 🛠 Tech Stack
 
-- **Tool:** Microsoft Excel (Dashboard + Slicers + Pivot Tables/Charts)  
+- **Tool:** Microsoft Power BI (Dashboard + Slicers + Pivot Tables/Charts)  
 - **Data Source:** Superstore sales dataset (Orders & Returns data)  
 - **Visual Elements:**  
-  - Pivot Charts (Line, Pie, Donut, Bar)  
+  - BI Charts (Line, Pie, Donut, Bar)  
   - Card KPIs  
   - Slicers for all key dimensions  
 
